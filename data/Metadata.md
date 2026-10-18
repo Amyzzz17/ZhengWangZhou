@@ -15,7 +15,7 @@
 This dataset provides monthly information on China’s exports of solar panels, cells, and wafers by destination country or region.
 
 ## 2. Expected Variables
-
+ 
 | Variable | Description |
 |---|---|
 | Area | Export destination country, economy, or region |
