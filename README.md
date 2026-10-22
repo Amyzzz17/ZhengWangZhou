@@ -10,6 +10,7 @@
 - Amy Zheng
 - Ziyan Wang
 - Xuan Zhou
+- Reynold Li
 
 ## 2. Research Overview
 
